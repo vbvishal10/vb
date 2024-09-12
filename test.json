@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/vbvishal10/vb/master/test.yml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/vbvishal10/vb/master/test.yml",
+            "name": "Foo"
+        }
+    ]
+}
